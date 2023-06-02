@@ -13,3 +13,6 @@ App Meteo è un progetto che effettua una richiesta API all'endpoint di OpenWeat
 -Formattazione dell'orario: L'orario visualizzato viene formattato in modo leggibile, tenendo conto del fuso orario della città corrente. La funzione convertTimeStamp() converte il timestamp in un formato che include il giorno della settimana, il giorno del mese, il mese, l'anno, l'ora e i minuti.
 
 -Icone meteorologiche: Il progetto utilizza le icone fornite da OpenWeatherMap API per rappresentare visivamente la condizione meteo corrente. L'icona corrispondente viene scaricata e visualizzata in base alla descrizione del meteo ottenuta dalla risposta API.
+
+## Demo
+https://lucahaggar.github.io/App-Meteo/
