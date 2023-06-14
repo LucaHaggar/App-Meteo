@@ -17,4 +17,7 @@ App Meteo è un progetto che effettua una richiesta API all'endpoint di OpenWeat
 ## Demo
 https://lucahaggar.github.io/App-Meteo/
 
+## Screenshots
+
+![App Screenshot](https://github.com/LucaHaggar/App-Meteo/blob/main/screenshots/Screenshot%202023-06-14%20134252.png?raw=true)
 
